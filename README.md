@@ -1,2 +1,2 @@
 # homebrew-tap
-Homebrew tap for prash3232 tools
+Homebrew tap for pncloud tools
